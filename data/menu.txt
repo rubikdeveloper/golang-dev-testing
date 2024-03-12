@@ -1,10 +1,8 @@
-COVERS:
-
 #Focaccia
 with olive oil and cacao butter, accompanied by a sweet balsamic glaze.
-Cooking method and ingredients:
+Ingredients:
 Focaccia: water, four, salt, yeast
-Olive oil and cacao butter: Cacao butter melted at 35 degrees, we add olive oil, salt and let it cool down. Once at 2 degrees we mix it until it changes color.
+Olive oil and cacao butter: Cacao butter melted at 35 degrees, we add olive oil, salt and let it cool down. Once at 2 degrees we mix it until it changes color.    
 Can be substituted for sourdough for gluten free bread
 Allergens: Cereal/Gluten, Sulphites
 
@@ -12,7 +10,7 @@ SNACKS:
 
 #Oscietra Caviar
 Griddled Potato Bread, Served with potato bread, bonito cream, egg white, egg yolk jam, diced red onion, chopped parsley
-Cooking method and ingredients:
+Ingredients:
 Caviar: Imperial caviar is the supplier, Osietra is the variety.
 Bonito Cream: bonito(tuna), whipped cream, creme fraiche salt.
 Potato Bread: flour, buttermilk, yeast, smashed potato.
@@ -24,28 +22,28 @@ Allergens: cereal/gluten, eggs, fish, milk, nightshade, onion
 
 #Carlingford Oysters
 With Verjus Mignonette
-Cooking method and ingredients:
+Ingredients:
 Verjus - green juice: highly acidic juice made by pressing unripe grapes, crab-apples or other sour fruit.
 Mignonette: minced shallots, cracked pepper, and vinegar.
 Allergens: molluscs, sulphites, onion.
 
 #Crudites (raw vegetables)
 Raw Vegetables with Chive Emulsion
-Cooking method and ingredients:
+Ingredients:
 Vegetables: Chicory, radishes, cucumbers, carrots
 Chive emulsion: egg whites, chives, rapeseed oil, salt.
 Allergens: eggs, onion.
 
 #Fried Maitakes
 With Rosemary and Truffle Mayonnaise
-Cooking method and ingredients:
+Ingredients:
 Maitake mushroom with seasoned flour butter, and truffle mayo. Soaked in egg, and covered with seasoned flour until the mushroom has been coated in butter. Fried until golden brown.
 Flour: ap flour, paprika, oregano, onion powder, garlic powder.
 Allergens: Gluten/cereal, eggs, garlic, mushroom, onion.
 
 #Pork Rillettes
 Pickled Onions and Mustard Seeds
-Cooking method and ingredients:
+Ingredients:
 Pork Rillettes: with pickled onions, pickled mustard seeds and mustard greens, with a side of crispy focaccia.
 Pickled mustard seeds: mustard seeds, white balsamic pickling liquid.
 Pork Rillettes: cured in salt, confited with duck fat and chicken stock.
@@ -53,16 +51,17 @@ Allergenes: cereals/gluten,mustard, sulphites,onion, garlic, pork.
 
 #Carrot Tartare
 With Sprouts, Quails Eggs and Sunflower Seeds
-Cooking method and ingredients:
-Peeled Carrots: dressed in carrot and lemon vinaigrette, tossed with pickled mustard seeds, fresh horseradish, chives, pickled quails egg yolk, diced green apple, toasted sunflower seeds finished with pea sprouts.
+Ingredients:
+Peeled Carrots: dressed in carrot and lemon vinaigrette, tossed with pickled mustard seeds, fresh horseradish, chives, pickled quails egg yolk, diced green apple, 
+toasted sunflower seeds finished with pea sprouts.
 Carrot vinaigrette: carrot juice, caraway seeds, ginger, dijon mustard, white balsamic, vinegar, egg yolk, canola oil, lemon juice, salt.
 Lemon vinaigrette: lemon juice, lemon oil, extra virgin oil.
 Allergens: gluten, eggs, mustard, sulphites, citrus, onion.
 
 #Chicken Liver
 Parfait with capers, brioche and port jelly
-Cooking method and ingredients:
-creamy chicken parfait, tangy port jelly, crispy chicken skin pangritata, finished with capers and golden raisins served alongside warm chicken fat brioche.
+Ingredients:
+creamy chicken parfait, tangy port jelly, crispy chicken skin pangritata, finished with capers and golden raisins served alongside warm chicken fat brioche.       
 Chicken liver parfait: salted butter, eggs, garlic, salt and sugar.
 Port jelly: ruby port, sugar and agar.
 Golden raisin: soaked in muscadet sherry.
@@ -73,7 +72,7 @@ STARTERS:
 
 #London Burrata
 With Smoked Aubergine Roasted Pepper and Thai Basil.
-Cooking method and ingredients:
+Ingredients:
 London burrata with smoked aubergine puree, roasted piquillo sauce, with fried chickpeas, finished with pickled cucumbers and mustard seeds.
 smoked aubergine puree:aubergine, garlic, smoked oil
 Roasted piquillo sauce:piquillo pepper, lemon juice salt
@@ -85,102 +84,100 @@ Allergens: milk, mustard, sulphites, citrus, garlic, nightshade.
 
 #ORKNEY SCALLOPS
 WITH PARSNIP, APPLE & PINE
-Cooking method and ingredients:
-Parsnip Puree - parsnips, butter, apple juice, double cream, salt
-Pine Oil - pine needles, rapeseed oil, salt
-Scallop Skirt Sauce - scallop skirts, butter, vermouth, fish fumet, double cream, lemon juice, salt.
+Ingredients:
+Parsnip Puree: parsnips, butter, apple juice, double cream, salt
+Pine Oil: pine needles, rapeseed oil, salt
+Scallop Skirt Sauce: scallop skirts, butter, vermouth, fish fumet, double cream, lemon juice, salt.
 
 #VEAL TARTARE
 WITH OYSTER EMULSION, CAPERS & HAZELNUTS
-Cooking method and ingredients:
 Veal tartare layered with oyster emulsion in the ring mold on the plate. Topped with crispy capers, roasted hazelnuts and finished with lemon balm leaves.
-Veal mix - veal filet with lemon oil, whole lemons & salt
-Oyster emulsion - oysters mixed with white soya (wheat), gastrique (sugar & vinegar), rapeseed oil, lemons & salt. Emulsified to mayonnaise texture.
-OYSTER EMULSION MAY CONTAIN EGG, ALWAYS CHECK WITH KITCHEN
+Ingredients:
+Veal mix: veal filet with lemon oil, whole lemons & salt
+Oyster emulsion: oysters mixed with white soya (wheat), gastrique (sugar & vinegar), rapeseed oil, lemons & salt. Emulsified to mayonnaise texture.
+OYSTER EMULSION: MAY CONTAIN EGG, ALWAYS CHECK WITH KITCHEN
 
 #SPINACH RIGATONI
 WITH GARLIC, ALEPPO PEPPER & OLIVE OIL
-Cooking method and ingredients:
-Spinach Rigatoni with fresh garlic, chili and olive oil.
-Rigatoni - Semolina flour, eggs, spinach puree, water
-Sauce - olive oil, sauteed garlic, Aleppo pepper, lemon zest, chopped parsley, butter.
+Ingredients:
+Rigatoni: Semolina flour, eggs, spinach puree, water
+Sauce: olive oil, sauteed garlic, Aleppo pepper, lemon zest, chopped parsley, butter.
 
 #TAGLIATELLE
 CORNISH CRAB, MEYER LEMON, & BLACK PEPPER
-Cooking method and ingredients:
-Tagliatelle - in a Butter Emulsion, Cornish crab finished with Meyer Lemon Juice, Black Pepper, and Chives.
-Pasta Dough - '00' flour, egg yolks
-Butter Emulsion - butter, fish stock and water
-Cornish Crab - Poached & deshelled pre service. Then folded in the pasta once pasta is almost cooked through
+Ingredients:
+Tagliatelle: in a Butter Emulsion, Cornish crab finished with Meyer Lemon Juice, Black Pepper, and Chives.
+Pasta Dough: '00' flour, egg yolks
+Butter Emulsion: butter, fish stock and water
+Cornish Crab: Poached & deshelled pre service. Then folded in the pasta once pasta is almost cooked through
 
 MAINS:
 
 #LEEK
-WOOD-FIRED WITH WHIPPED ALMOND & OLIVE OIL VICHYSSOISE
-Cooking method and ingredients:
-BBQ Leek, with whipped almond curd, Almonds and Vichyssoise.
-Whipped Goat's Curd - goat's curd, lemon and salt
-Almond Crunch - Almonds, Shallots, Chives, Salt
-Leek Oil - leak, rapeseed oil, salt
-Vichyssoise - Leek, potato & onion
+WOOD-FIRED WITH WHIPPED ALMOND Curd & OLIVE OIL VICHYSSOISE
+Ingredients:
+Whipped Goat's Curd: goat's curd, lemon and salt
+Almond Crunch: Almonds, Shallots, Chives, Salt
+Leek Oil: leak, rapeseed oil, salt
+Vichyssoise: Leek, potato & onion
 
 #COD
 SEARED WITH MUSSELS, MONK’S BEARD & WATERCRESS
-Cooking method and ingredients:
 Roasted Cod with Mussels, Maitake Mushroom and Watercress sauce
-Butter Emulsion – butter, trout roe, chives, leek oil
-Watercress sauce – onion, potato, butter, garlic, watercress, mussel juice, lemon, salt
+Ingredients:
+Butter Emulsion: butter, trout roe, chives, leek oil
+Watercress sauce: onion, potato, butter, garlic, watercress, mussel juice, lemon, salt
 
 #DUCK
 BREAST ROASTED WITH KALE
 & LAVENDER-GLAZED PLUM
-Cooking method and ingredients:
-Plum ketchup – red plums, sugar, ginger, Szechuan peppercorns, salt, white wine
-Duck jus – roasted duck and chicken wings, chicken stock, (celery, carrots, onion), shallots, rapeseed oil, garlic
-Lavender glaze – honey, dried lavender
+Ingredients:
+Plum ketchup: red plums, sugar, ginger, Szechuan peppercorns, salt, white wine
+Duck jus: roasted duck and chicken wings, chicken stock, (celery, carrots, onion), shallots, rapeseed oil, garlic
+Lavender glaze: honey, dried lavender
 
 #PORK
 WITH CRISPY SKIN, JERUSALEM ARTICHOKE
 & BLACK TRUFFLE VINAIGRETTE
 Confit suckling pig, served with Jerusalem Artichoke puree & chips, and a Black Truffle Vinaigrette
-Cooking method and ingredients:
-Suckling pig – cured in salt, confit with duck fat and chicken stock (celery, carrot, onion, garlic, parsley),
-Black truffle vinaigrette – port, red wine vinegar, black truffle paste, rapeseed oil
-Pig jus – roasted pig bones, Madeira, Port, chicken stock(celery, carrot, onion, garlic, parsley), tomato paste
-Jerusalem Artichoke Puree – sunchokes, butter, white chicken stock, bacon, white wine, crème fraiche, lemon , Salt
+Ingredients:
+Suckling pig: cured in salt, confit with duck fat and chicken stock (celery, carrot, onion, garlic, parsley),
+Black truffle vinaigrette: port, red wine vinegar, black truffle paste, rapeseed oil
+Pig jus: roasted pig bones, Madeira, Port, chicken stock(celery, carrot, onion, garlic, parsley), tomato paste
+Jerusalem Artichoke Puree: sunchokes, butter, white chicken stock, bacon, white wine, crème fraiche, lemon , Salt
 
 #BRITISH BEEF
 BRAISED CHEEK WITH CELERIAC, CAULIFLOWER
 & SARAWAK PEPPER
 Braised British Beef Cheek, with a Sarawak sauce, Celeriac Puree. Garnished with crispy Cavolo Nero & purple cabbage
-Cooking method and ingredients:
-Beef Cheek – thyme garlic, EVOO, chicken stock
-Sarawak sauce – butter, shallots, thyme, sherry, double cream
-Celeriac Puree – celeriac, butter, double cream, water
-Pickled daikon – Daikon & WBPL
-Purple cauliflower – Raw sliced with lemon vinaigrette
+Ingredients:
+Beef Cheek: thyme garlic, EVOO, chicken stock
+Sarawak sauce: butter, shallots, thyme, sherry, double cream
+Celeriac Puree: celeriac, butter, double cream, water
+Pickled daikon: Daikon & WBPL
+Purple cauliflower: Raw sliced with lemon vinaigrette
 
 #CHICKEN BREAST (for two people to share)
 STUFFED WITH FOIE GRAS, BRIOCHE & BLACK TRUFFLE
 WITH BRUSSEL SPROUTS & QUINOA
 Creedy Carver chicken breast stuffed with black truffle, foie gras and brioche underneath the skin. Served with quinoa ragu, mushroom purée and brussels sprouts. Finished with brown butter sabayon and chives.
-Cooking method and ingredients:
+Ingredients:
 Black truffle stuffing - brioche, butter, marinated foie gras (salt, sugar, white pepper, Madeira, Cognac) truffle paste, truffle oil, salt
 Charred brussels sprouts - rapeseed oil, salt, black pepper
 Compressed brussels leaves - lemon vinaigrette
-Quinoa ragu - quinoa, brussels sprouts, chicken stock (celery, onion, garlic, carrots), lemon juice, salt
-Mushroom purée - button mushrooms, butter, cream, shallot, Madeira, thyme, garlic, salt
-Brown butter sabayon - brown butter, eggs, sherry vinaigrette, white port, and salt
+Quinoa ragu: quinoa, brussels sprouts, chicken stock (celery, onion, garlic, carrots), lemon juice, salt
+Mushroom purée:  button mushrooms, butter, cream, shallot, Madeira, thyme, garlic, salt
+Brown butter sabayon: brown butter, eggs, sherry vinaigrette, white port, and salt
 
 #DEVON LAMB (for two people to share)
 SHREDDED SHOULDER FOR TWO
 WITH PICKLED MINT SAUCE, ANCHOVY AIOLI
 & GREEN OLIVE DRESSED SALAD
 Slow cooked Devon lamb shoulder, smoked over lavender, with pickled mint and garlic and anchovy mayonnaise.
-Cooking method and ingredients:
-Lamb shoulder – lavender, cumin, salt
-Pickled mint – mint, vinegar, sugar
-Anchovy emulsion – eggs, vinegar, garlic, anchovy
+Ingredients:
+Lamb shoulder: lavender, cumin, salt
+Pickled mint: mint, vinegar, sugar
+Anchovy emulsion: eggs, vinegar, garlic, anchovy
 
 SIDES:
 
@@ -190,10 +187,9 @@ WITH GRILLED GREEN ONIONS
 #GREEN SALAD:
 OLIVES & FINE HERBS
 Flourish farm salad, with, green olive slices, chopped chives, chervil & chive blossoms. Finished with an olive brine vinaigrette.
-Cooking method and ingredients:
-Flourish farm salad, with, green olive slices, chopped chives, chervil & chive blossoms. Finished with an olive brine vinaigrette.
-Flourish farm salad - Mixed leaves from Flourish Farm
-Olive brine vinaigrette - Olive brine, xantham, olive oil, sherry vinegar.
+Ingredients:
+Flourish farm salad: Mixed leaves from Flourish Farm
+Olive brine vinaigrette: Olive brine, xantham, olive oil, sherry vinegar.
 
 DESSERTS:
 
